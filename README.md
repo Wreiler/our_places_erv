@@ -5,7 +5,7 @@ We left at the beginning of June 2022 due to the start of an aggressive war agai
 
 I decided to collect in one consolidated dashboard all the places where we managed to live in Yerevan during this period
 
-- Analysis and visualization is displayed in two tools - Tableau & Microsoft Power BI
+               Analysis and visualization is displayed in two tools - Tableau & Microsoft Power BI
 
 
 ______________________________________________________________________________________
