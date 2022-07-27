@@ -8,6 +8,9 @@ I decided to collect in one consolidated dashboard all the places where we manag
 - Analysis and visualization is displayed in two tools - Tableau & Microsoft Power BI
 
 
+______________________________________________________________________________________
+--------------------------------------------------------------------------------------
+
 #### DASHBOARD TABLEAU
 
 https://public.tableau.com/app/profile/sergei5857/viz/Erv_places_dash/Dashboard1#2
