@@ -32,6 +32,8 @@ _____________________________________
 #### DASHBOARD MS POWER BI
 
 https://app.powerbi.com/groups/me/dashboards/154e9163-d6db-4e5f-9860-d2176c7e4b34
+
+Dashboard is presented in PDF format - https://github.com/Wreiler/our_places_erv/blob/main/our_places_erv.pdf
 _____________________________________
 
 There are 3 types of data visualization:
