@@ -45,3 +45,20 @@ There are 3 types of data visualization:
 _
 
 ![image](https://github.com/Wreiler/our_places_erv/blob/main/dash_powerBI.png)
+
+
+
+______________________________________________________________________________________
+--------------------------------------------------------------------------------------
+
+##### EXTRA PULPULAKS DASHBOARD TABLEAU
+
+https://public.tableau.com/app/profile/sergei5857/viz/PulpulaksMap/PulpulaksDash
+_____________________________________
+
+I also decided to collect all the pulpulaks marked in google maps in Yerevan and put these marks in a special map on the dashboard
+
+##### Tools used: Google Maps, JSON, Excel and Tableau
+_
+
+![image](https://github.com/Wreiler/our_places_erv/blob/main/pulp_dash.png)
